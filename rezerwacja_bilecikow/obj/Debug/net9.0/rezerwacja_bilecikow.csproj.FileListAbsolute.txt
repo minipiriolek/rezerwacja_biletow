@@ -1,0 +1,14 @@
+C:\Users\Olek M\RiderProjects\rezerwacja_bilecikow\rezerwacja_bilecikow\obj\Debug\net9.0\rezerwacja_bilecikow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olek M\RiderProjects\rezerwacja_bilecikow\rezerwacja_bilecikow\obj\Debug\net9.0\rezerwacja_bilecikow.AssemblyInfoInputs.cache
+C:\Users\Olek M\RiderProjects\rezerwacja_bilecikow\rezerwacja_bilecikow\obj\Debug\net9.0\rezerwacja_bilecikow.AssemblyInfo.cs
+C:\Users\Olek M\RiderProjects\rezerwacja_bilecikow\rezerwacja_bilecikow\obj\Debug\net9.0\rezerwacja_bilecikow.csproj.CoreCompileInputs.cache
+C:\Users\Olek M\RiderProjects\rezerwacja_bilecikow\rezerwacja_bilecikow\bin\Debug\net9.0\rezerwacja_bilecikow.exe
+C:\Users\Olek M\RiderProjects\rezerwacja_bilecikow\rezerwacja_bilecikow\bin\Debug\net9.0\rezerwacja_bilecikow.deps.json
+C:\Users\Olek M\RiderProjects\rezerwacja_bilecikow\rezerwacja_bilecikow\bin\Debug\net9.0\rezerwacja_bilecikow.runtimeconfig.json
+C:\Users\Olek M\RiderProjects\rezerwacja_bilecikow\rezerwacja_bilecikow\bin\Debug\net9.0\rezerwacja_bilecikow.dll
+C:\Users\Olek M\RiderProjects\rezerwacja_bilecikow\rezerwacja_bilecikow\bin\Debug\net9.0\rezerwacja_bilecikow.pdb
+C:\Users\Olek M\RiderProjects\rezerwacja_bilecikow\rezerwacja_bilecikow\obj\Debug\net9.0\rezerwacja_bilecikow.dll
+C:\Users\Olek M\RiderProjects\rezerwacja_bilecikow\rezerwacja_bilecikow\obj\Debug\net9.0\refint\rezerwacja_bilecikow.dll
+C:\Users\Olek M\RiderProjects\rezerwacja_bilecikow\rezerwacja_bilecikow\obj\Debug\net9.0\rezerwacja_bilecikow.pdb
+C:\Users\Olek M\RiderProjects\rezerwacja_bilecikow\rezerwacja_bilecikow\obj\Debug\net9.0\rezerwacja_bilecikow.genruntimeconfig.cache
+C:\Users\Olek M\RiderProjects\rezerwacja_bilecikow\rezerwacja_bilecikow\obj\Debug\net9.0\ref\rezerwacja_bilecikow.dll
