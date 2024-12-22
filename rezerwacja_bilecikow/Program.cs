@@ -75,3 +75,21 @@ class BookingSystem
         }
     }
 }
+class Program
+{
+    static void Main(string[] args)
+    {
+        BookingSystem bookingSystem = new BookingSystem();
+
+        bookingSystem.AddConcert(new Concert("Rock Night", new DateTime(2024, 5, 12), "Warszawa", 100));
+        bookingSystem.AddConcert(new Concert("Jazz Evening", new DateTime(2024, 6, 20), "Kraków", 50));
+
+        Console.WriteLine("Koncerty po dacie:");
+        bookingSystem.ShowConcerts(c => c.Date >= DateTime.Now);
+
+        bookingSystem.BookTicket("Rock Night", 1, 200);
+
+        Console.WriteLine("Koncerty w Warszawie:");
+        bookingSystem.ShowConcerts(c => c.Location == "Warszawa");
+    }
+}
