@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rezerwacja_bilecikow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ac41d1994227bf7c79a11a9cc89cfee32450b29")]
 [assembly: System.Reflection.AssemblyProductAttribute("rezerwacja_bilecikow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rezerwacja_bilecikow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

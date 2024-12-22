@@ -12,3 +12,4 @@ C:\Users\Olek M\RiderProjects\rezerwacja_bilecikow\rezerwacja_bilecikow\obj\Debu
 C:\Users\Olek M\RiderProjects\rezerwacja_bilecikow\rezerwacja_bilecikow\obj\Debug\net9.0\rezerwacja_bilecikow.pdb
 C:\Users\Olek M\RiderProjects\rezerwacja_bilecikow\rezerwacja_bilecikow\obj\Debug\net9.0\rezerwacja_bilecikow.genruntimeconfig.cache
 C:\Users\Olek M\RiderProjects\rezerwacja_bilecikow\rezerwacja_bilecikow\obj\Debug\net9.0\ref\rezerwacja_bilecikow.dll
+C:\Users\Olek M\RiderProjects\rezerwacja_bilecikow\rezerwacja_bilecikow\obj\Debug\net9.0\rezerwacja_bilecikow.sourcelink.json
